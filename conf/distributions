@@ -1,0 +1,8 @@
+Origin: TitalcruiseOS
+Label: TitalcruiseOS 5.3
+Suite: stable
+Codename: trixie
+Architectures: amd64
+Components: main
+Description: Repositorio oficial de TitalcruiseOS 5
+SignWith: D41613E82055400D96E795F4FE01CC413218D3DB

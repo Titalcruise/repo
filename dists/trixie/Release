@@ -1,0 +1,20 @@
+Origin: TitalcruiseOS
+Label: TitalcruiseOS 5.3
+Suite: stable
+Codename: trixie
+Date: Wed, 17 Jun 2026 01:26:55 UTC
+Architectures: amd64
+Components: main
+Description: Repositorio oficial de TitalcruiseOS 5
+MD5Sum:
+ 15cfd51e68154f1ce2e6b7aa676cf0ee 959 main/binary-amd64/Packages
+ 85e98b37a568c7a727ce89d279b45615 623 main/binary-amd64/Packages.gz
+ 6000553e1eb94934365b07fe284fc90f 151 main/binary-amd64/Release
+SHA1:
+ 79c38bfbe779bc813086bb8f21fa5a17193696a7 959 main/binary-amd64/Packages
+ 2d78ae05e39adb0c04a35b58f5a51049093898b1 623 main/binary-amd64/Packages.gz
+ c1f8fef9491f0f10dc2929152fc43026992bb9c7 151 main/binary-amd64/Release
+SHA256:
+ 6c690e6ec19909813e641a19caca623b8525bfdec063adb820c5df6b22ce9965 959 main/binary-amd64/Packages
+ 60a5fbaa2b9271ea5e86e1f8054b50478dbc1152682de0af6c9f90cf451c7446 623 main/binary-amd64/Packages.gz
+ d59cc294a7bac26f7d39a0b2195774bd42aa8b33d869e0bc446792011af12b65 151 main/binary-amd64/Release

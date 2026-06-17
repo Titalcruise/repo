@@ -1,0 +1,24 @@
+Package: base-files
+Version: 14.2
+Architecture: amd64
+Essential: yes
+Maintainer: Santiago Vila <sanvila@debian.org>
+Installed-Size: 537
+Pre-Depends: awk
+Breaks: debian-security-support (<< 2019.04.25), initscripts (<< 2.88dsf-13.3), sendfile (<< 2.1b.20080616-5.2~)
+Replaces: base, dpkg (<= 1.15.0), miscutils
+Provides: base, usr-is-merged
+Multi-Arch: foreign
+Priority: required
+Section: admin
+Filename: pool/main/b/base-files/base-files_14.2_amd64.deb
+Size: 88752
+SHA256: 9f6e81eb15b0dc4ab40ffe269edcb6af0d29fe3b8c1139f973ba7e45a55e6205
+SHA1: cee6d509ef7f28d0271288ad3b2be28827a5b411
+MD5sum: b74a37ec925794e5d54f34a498315c5f
+Description: Debian base system miscellaneous files
+ This package contains the basic filesystem hierarchy of a Debian system, and
+ several important miscellaneous files, such as /etc/debian_version,
+ /etc/host.conf, /etc/issue, /etc/motd, /etc/profile, and others,
+ and the text of several common licenses in use on Debian systems.
+
