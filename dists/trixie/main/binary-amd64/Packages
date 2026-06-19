@@ -22,3 +22,27 @@ Description: Debian base system miscellaneous files
  /etc/host.conf, /etc/issue, /etc/motd, /etc/profile, and others,
  and the text of several common licenses in use on Debian systems.
 
+Package: calamares-settings-titalcruise
+Version: 1.0-1
+Architecture: all
+Maintainer: Titalcruise E.A <titalcruise@gmail.com>
+Installed-Size: 187
+Depends: calamares, rsync, cryptsetup, libglib2.0-bin, keyutils, pkexec, qml-module-qtquick-window2, qml-module-qtquick2, dconf-gsettings-backend | gsettings-backend
+Provides: calamares-settings
+Homepage: https://salsa.debian.org/live-team/calamares-settings-debian
+Priority: optional
+Section: utils
+Filename: pool/main/c/calamares-settings-titalcruise/calamares-settings-titalcruise_1.0-1_all.deb
+Size: 52596
+SHA256: 4a768497976218e65a75277111ef47a31ea5b64ec259c8b4b4afe15b99db1642
+SHA1: 61d7f041102c8a33f5a8f81da5f3f7c24dee70c2
+MD5sum: 7e5ba8b8f3b5c5529edfddb5beb834f7
+Description: Debian theme and settings for the Calamares Installer
+ Calamares is a generic installer framework for Linux distributions.
+ By default, it contains a set of boilerplate wording and images. This
+ package provides the latest Debian artwork as well as scripts that
+ supports EFI installations.
+ .
+ It also serves as an example for how derivatives can create their own
+ calamares-settings packages.
+
