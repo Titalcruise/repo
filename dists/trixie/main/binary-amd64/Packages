@@ -23,20 +23,20 @@ Description: Debian base system miscellaneous files
  and the text of several common licenses in use on Debian systems.
 
 Package: calamares-settings-titalcruise
-Version: 1.1
+Version: 1.1-1
 Architecture: all
 Maintainer: Titalcruise E.A <titalcruise@gmail.com>
-Installed-Size: 185
+Installed-Size: 171
 Depends: calamares, rsync, cryptsetup, libglib2.0-bin, keyutils, pkexec, qml-module-qtquick-window2, qml-module-qtquick2, dconf-gsettings-backend | gsettings-backend
 Provides: calamares-settings
 Homepage: https://salsa.debian.org/live-team/calamares-settings-debian
 Priority: optional
 Section: utils
-Filename: pool/main/c/calamares-settings-titalcruise/calamares-settings-titalcruise_1.1_all.deb
-Size: 49396
-SHA256: f47587cc2d920904c887497b50eb1aca82946d085c56e38e3cda78b07c17bfc7
-SHA1: 1b96b34975984b6e2bac31477fcdf2b2b11dc1e9
-MD5sum: 675c9af2713284fe5428ae8daf476674
+Filename: pool/main/c/calamares-settings-titalcruise/calamares-settings-titalcruise_1.1-1_all.deb
+Size: 49212
+SHA256: 0c048152fe9c382b20e58f9dcefed9ee88844f44b5c36d865469cfae0137ff89
+SHA1: 3daf681ed29f1f19264fa5c73aebbe21a6db2ce4
+MD5sum: 5f5ebd1ba712913e95f8df56cc58cbc9
 Description: TitalcruiseOS theme and settings for the Calamares Installer
  Calamares is a generic installer framework for Linux distributions.
  By default, it contains a set of boilerplate wording and images. This
