@@ -46,6 +46,23 @@ Description: TitalcruiseOS theme and settings for the Calamares Installer
  It also serves as an example for how derivatives can create their own
  calamares-settings packages.
 
+Package: gnome-backgrounds
+Version: 50.0-3
+Architecture: all
+Maintainer: Debian GNOME Maintainers <pkg-gnome-maintainers@lists.alioth.debian.org>
+Installed-Size: 38776
+Multi-Arch: foreign
+Priority: optional
+Section: gnome
+Filename: pool/main/g/gnome-backgrounds/gnome-backgrounds_50.0-3_all.deb
+Size: 39042952
+SHA256: 637214c04622a9589deb01e754e75912702118738ff7dfb2747c1d283f2a8a92
+SHA1: 36cbccb471c3479ce22b1c927aedff41bf0d702d
+MD5sum: fdd5b22e2e634342046457143c850cb7
+Description: Set of backgrounds packaged with the GNOME desktop
+ This is a collection of desktop wallpapers created with GNOME users in
+ mind.
+
 Package: titalcruise-default-settings
 Version: 1.0-1
 Architecture: all
