@@ -1,3 +1,17 @@
+# base-files 14.2-1
+
+Configuraciones personalizadas de *base-files* para *TitalcruiseOS*.
+
+Este paquete ajusta el personalizador e identificador del sistema>
+
+---
+
+# Características
+
+* Agregamos `BUILD_ID=20260709`.
+* Idenfificador mediante BUILD_ID.
+
+---
 # calamares-settings-titalcruise
 
 Configuraciones personalizadas de *Calamares Installer* para *TitalcruiseOS*.
