@@ -46,6 +46,30 @@ Description: TitalcruiseOS theme and settings for the Calamares Installer
  It also serves as an example for how derivatives can create their own
  calamares-settings packages.
 
+Package: desktop-base
+Version: 14.0.0~pre2
+Architecture: all
+Maintainer: Debian Desktop Team <debian-desktop@lists.debian.org>
+Installed-Size: 20871
+Depends: librsvg2-common, fonts-quicksand
+Recommends: plymouth-label
+Suggests: gnome | kde-standard | xfce4 | wmaker
+Homepage: https://www.debian.org/devel/debian-desktop/
+Priority: optional
+Section: x11
+Filename: pool/main/d/desktop-base/desktop-base_14.0.0~pre2_all.deb
+Size: 8824628
+SHA256: 7d956d5e8c3fd544ba84fce57fd0bae4c60480a667b007dd3a105ddb84059659
+SHA1: 59dd17e9bb5e32d2c7fdd6c7b73d8864ad6d3dc8
+MD5sum: b6cfdbbc5e4a5f15037fdb9a140bb1ea
+Description: common files for the Debian Desktop
+ This package contains various miscellaneous files which are used by
+ Debian Desktop installations.  Currently, it provides some
+ Debian-related artwork and themes, .desktop files containing links to
+ Debian related material (suitable for placement on a user's desktop),
+ and other common files between the available desktop environments
+ such as GNOME and KDE.
+
 Package: gnome-backgrounds
 Version: 50.0-3
 Architecture: all
