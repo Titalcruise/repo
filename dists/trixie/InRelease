@@ -5,7 +5,7 @@ Origin: TitalcruiseOS
 Label: TitalcruiseOS 5.3
 Suite: stable
 Codename: trixie
-Date: Tue, 04 Aug 2026 20:24:33 UTC
+Date: Thu, 06 Aug 2026 16:05:35 UTC
 Architectures: amd64
 Components: main
 Description: Repositorio oficial de TitalcruiseOS 5
@@ -23,17 +23,17 @@ SHA256:
  d59cc294a7bac26f7d39a0b2195774bd42aa8b33d869e0bc446792011af12b65 151 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEE1BYT6CBVQA2W55X0/gHMQTIY09sFAmpySoMACgkQ/gHMQTIY
-09s5OQ//UJlpTNKOx2nIttnShlSHJJlI/CkuhsB5nutajY+yDHn/aYg9UOQemPkM
-5mqzy6te+80g2QjSMOMU/FHaEzNpprUp8CcEXsAZBVmvA4cobhISjwzFBi/EhDzq
-l+UMaGxvGvn3wn6eFeE0L4zO+SCBxqbfCKenLoyRlkmO24J4Urz4yFt+KZ1QwzVE
-Q3GCXtOiqr/wH+pVjLNi5BziDwT9pVsvm7FuMTuyzxj5AYVDrGZuI1X4/K38kDXf
-OFRX8bEIf8KDklNxzrY9t4Bs+tZmr47GbLTJD7L9y4/we2WETU4yHdaxU6fznGXm
-A7ypgkLr3I3RiNJNIeu2dlcFxUcb/xyctptfqXmjSZeSdfnp+gz79nHRJplO9N4L
-cxHaaZDQI7xYs9DrEMWNZ2waFmQkqZA0kCrMfjlPdNdKB/bHqIMPrgJOTNxZGkdi
-g+PsWNQ/Tq8nXjivcBTl0SrgWHeVLludjP9Rd6ZbRj6gefk+w7pJUq9A7eYJip3j
-rVXCkWAbY57BI/n2x1QNx8shTHcEtwKEsuWwQHRRmb4a083F5wXSRMO2kjvI/SFS
-8I8NfCEfUTsDLpqjfS5zjUe5MYna+QhqjZ4X9DIvvumxJVELzNbDxl089mY+Ys2d
-vZDDU5GAAf6XsConUS9w1hfQtV4FenK2Jsm1cZhrClVuroCiNPU=
-=1r6z
+iQIzBAEBCgAdFiEE1BYT6CBVQA2W55X0/gHMQTIY09sFAmp0sNAACgkQ/gHMQTIY
+09vKjRAAowTQIGise5LTx5CZFpJeFDg63zxMlew78A8zw3Y3vwLolpAjAKiDOpvQ
+iaPU03IK2+wklN/GWhsjSjaO+iHeumqipKt/fO5VZsrF1JAkf7be7vcE8mxuRMeQ
+YoBcUjK+h0bDh8a74OoW4aPLV4lyiorhicyMuHWeP/EF7xf4wo6okjmrB0Pfudzc
+EEOpKT8Mtbvd6tJeGnEPkqXTWipmufq43NApUIbjPUbua5beKs4O4rnzmXEPn0KN
+0VU6SQP/a84gBSzXkNGAss20+Svm3K9GjODkpFX8BrgKGvHcxgeJwUDYJttfBoE+
+1wP67w4cHJ+s4NLx5rzFcxEiY2DMVc2lakfG/tutpRq2hLZGM8/FCSdnRNf9Y2SJ
+ta4Oi5GW9NvqfhikVcNPpblHTdqMnMi+Sfp7hahotD1Qh8SpCHNL+l+WG9UrPrw1
+dW4qg42o9jiHvOCEMnZVl0FpBRd+2a67f0Q7xN2kSREZfpeXi7AOUp+cb28enTNW
+vgq8soXYlu9u09tn+fM3hm4lKBKYOQUO2HHC3Flua2vUXup+6qZYPgIs8zPcWgCA
+dUs4SaIi5nELaOgwL0ayAuQvDSz1omOCfqTKpUr+Rbdoo7DBAucDWUelTs7PhEL/
+WhNM2JMOZEcfxnshPz0J6/XqhnXHov4E5gZZF+L/YElZCAF/hQw=
+=nHcq
 -----END PGP SIGNATURE-----
