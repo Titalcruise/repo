@@ -1,3 +1,17 @@
+# calamares-settings-titalcruise 1.1-3
+
+Configuraciones personalizadas de *calamares-settings-titalcruise* para *TitalcruiseOS*.
+
+Este paquete ajusta el instalador del sistema
+
+---
+
+# Características
+
+* Agregregamos el archivo faltante grubcfg.conf al modulo /modules.
+
+---
+
 # base-files 14.2-1
 
 Configuraciones personalizadas de *base-files* para *TitalcruiseOS*.
