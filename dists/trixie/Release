@@ -2,19 +2,19 @@ Origin: TitalcruiseOS
 Label: TitalcruiseOS 5.3
 Suite: stable
 Codename: trixie
-Date: Thu, 06 Aug 2026 16:06:24 UTC
+Date: Fri, 21 Aug 2026 05:34:01 UTC
 Architectures: amd64
 Components: main
 Description: Repositorio oficial de TitalcruiseOS 5
 MD5Sum:
- 69e847e6b956f88885abcce1b68b0b7e 3485 main/binary-amd64/Packages
- a15e980b820ea68f11494d6fc461921b 1673 main/binary-amd64/Packages.gz
+ 2eae2ab7a7444414b6e305c469c44568 3522 main/binary-amd64/Packages
+ b1be0bd5af775bed887be9f4ad906367 1679 main/binary-amd64/Packages.gz
  6000553e1eb94934365b07fe284fc90f 151 main/binary-amd64/Release
 SHA1:
- 85d0170db59da8d63df08d61241a624defbfb0bf 3485 main/binary-amd64/Packages
- 96c7a77696617075f468e8d05bb05f39c0de96ba 1673 main/binary-amd64/Packages.gz
+ a48b4262c2bd1cb5b9f2ffa48493420141d323d8 3522 main/binary-amd64/Packages
+ 46cda70c4b69f94f0ebb4c22a4214fa0f9c48318 1679 main/binary-amd64/Packages.gz
  c1f8fef9491f0f10dc2929152fc43026992bb9c7 151 main/binary-amd64/Release
 SHA256:
- d0a9fef224087323bee2a294c218751bff524e38f31219108987d252d7667a72 3485 main/binary-amd64/Packages
- 0038d56eb77bd46d28ff0fe4620dbd90b4333329f4dd79278ed072e0311bc5d2 1673 main/binary-amd64/Packages.gz
+ 1cefd826137a73a76f5e5ab6411c3054ca43d5fee87865adfeb66c8d35121307 3522 main/binary-amd64/Packages
+ e0e43b4827878308878246fbfdea6ee2fe9f09c7b5a223a971770c6bfd6b377d 1679 main/binary-amd64/Packages.gz
  d59cc294a7bac26f7d39a0b2195774bd42aa8b33d869e0bc446792011af12b65 151 main/binary-amd64/Release
