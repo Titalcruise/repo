@@ -81,17 +81,17 @@ Description: Configuraciones predeterminadas para TitalcruiseOS
  incluyendo el tema oscuro, color de acento y extensiones activas.
 
 Package: titalcruise-gnome-defaults
-Version: 1.0.1
+Version: 1.0.2
 Architecture: all
 Maintainer: Titalcruise E.A.
 Depends: dconf-gsettings-backend
 Priority: optional
 Section: gnome
-Filename: pool/main/t/titalcruise-gnome-defaults/titalcruise-gnome-defaults_1.0.1_all.deb
-Size: 1736
-SHA256: b7b92ff8a2b7968e39891368f0a6b44bff74e421d9622135caea34611452b037
-SHA1: f2f3b78a11a86606042dfdd733182b66c7692578
-MD5sum: aaf89329962eb578ea5987cac958cc7a
+Filename: pool/main/t/titalcruise-gnome-defaults/titalcruise-gnome-defaults_1.0.2_all.deb
+Size: 1756
+SHA256: 3543aa8bd5cd410ed60acae100ba787048b90dee10d70cc0aa8cac0388583613
+SHA1: 1510c31bd48d3e7eec12fcb62781ded6a8de5daa
+MD5sum: 9451d57b8825994f5426b7c8df2726bf
 Description: TitalcruiseOS GNOME system-wide defaults
  System-wide GNOME desktop defaults for TitalcruiseOS.
  This package provides the default theme, icons, wallpaper,
