@@ -1,3 +1,11 @@
+# titalcruise-* (v1.0)
+
+Agregamos nuevos paquetes para *TitalcruiseOS*, los cuales son titalcruise-graphics, titalcruise-sounds y titalcruise-backgrounds.
+
+Estos paquetes definirán la identidad visual de TitalcruiseOS.
+
+---
+
 # calamares-settings-titalcruise 1.1-3
 
 Configuraciones personalizadas de *calamares-settings-titalcruise* para *TitalcruiseOS*.

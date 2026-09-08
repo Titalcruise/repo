@@ -82,6 +82,21 @@ Description: Set of backgrounds packaged with the GNOME desktop
  This is a collection of desktop wallpapers created with GNOME users in
  mind.
 
+Package: titalcruise-backgrounds
+Version: 1.0-1
+Architecture: all
+Maintainer: Titalcruise E.A.
+Priority: optional
+Section: misc
+Filename: pool/main/t/titalcruise-backgrounds/titalcruise-backgrounds_1.0-1_all.deb
+Size: 2852040
+SHA256: 97f56c36f8fd70063edb73b34e602387107a8aa79fe041db86387238e9266833
+SHA1: 18098a7c95c103ae5f99999b36d59830b954c598
+MD5sum: df281304931b47e01122147451d4fd2d
+Description: Fondos de pantalla de TitalcruiseOS
+ Fondos de pantalla oficiales utilizados por TitalcruiseOS.
+ Incluye los backgrounds principal y oscuro de TitalcruiseOS.
+
 Package: titalcruise-default-settings
 Version: 1.0-1
 Architecture: all
@@ -115,4 +130,35 @@ Description: TitalcruiseOS GNOME system-wide defaults
  System-wide GNOME desktop defaults for TitalcruiseOS.
  This package provides the default theme, icons, wallpaper,
  GNOME Shell extensions and Dash to Panel configuration through dconf.
+
+Package: titalcruise-graphics
+Version: 1.0-1
+Architecture: all
+Maintainer: Titalcruise E.A.
+Priority: optional
+Section: misc
+Filename: pool/main/t/titalcruise-graphics/titalcruise-graphics_1.0-1_all.deb
+Size: 46926908
+SHA256: 2bfea92fadb0099e7e6a9d6d4ee1ce7a620c0afbb8be7b03727b102db2511be3
+SHA1: 7fef298bbd9e200d1b129ea94e15e9975509b852
+MD5sum: eeec185113f6be74d9170648aeda56c8
+Description: Recursos gráficos de TitalcruiseOS
+ Recursos gráficos oficiales utilizados por TitalcruiseOS.
+ Incluye el tema de iconos Hatter, el tema GruvTahoe-main
+ y el tema transparente de GNOME Shell 4.8.
+
+Package: titalcruise-sounds
+Version: 1.0-1
+Architecture: all
+Maintainer: Titalcruise E.A.
+Priority: optional
+Section: misc
+Filename: pool/main/t/titalcruise-sounds/titalcruise-sounds_1.0-1_all.deb
+Size: 699448
+SHA256: 81328584f187d7ae7d1a0776116c873fda86f7e7ee257ba396c62959a9c3ef84
+SHA1: d886b69254bc4387ded7d10104a9fe234040871d
+MD5sum: b8471cea7f7de928366a92a64f69618e
+Description: Tema de sonidos de TitalcruiseOS
+ Tema de sonidos oficial Modern Minimal UI utilizado por TitalcruiseOS.
+ Incluye sonidos para Cinnamon y sonidos de escritorio en formato OGA/OGG.
 
