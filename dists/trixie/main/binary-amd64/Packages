@@ -1,26 +1,26 @@
 Package: base-files
-Version: 14.2-1
+Version: 14.6+titalcruise5
 Architecture: amd64
 Essential: yes
-Maintainer: Titalcruise E.A <Titalcruise@gmail.com>
+Maintainer: Titalcruise E.A <titalcruise@gmail.com>
 Installed-Size: 532
 Pre-Depends: awk
-Breaks: debian-security-support (<< 2019.04.25), initscripts (<< 2.88dsf-13.3), sendfile (<< 2.1b.20080616-5.2~)
-Replaces: base, dpkg (<= 1.15.0), miscutils
+Breaks: debian-security-support, initscripts, sendfile
+Replaces: base, dpkg, miscutils
 Provides: base, usr-is-merged
 Multi-Arch: foreign
 Priority: required
 Section: admin
-Filename: pool/main/b/base-files/base-files_14.2-1_amd64.deb
-Size: 88820
-SHA256: e8da2e0023bbd1892cb38844b9f2d7b30cca8f81410d365f59cd32420357ecc6
-SHA1: 9dbecf6b0ac4f7674e8f94bac235d8eea32a4db8
-MD5sum: bc34aee813cda0a9a8d07de019eafc51
-Description: Debian base system miscellaneous files
- This package contains the basic filesystem hierarchy of a Debian system, and
+Filename: pool/main/b/base-files/base-files_14.6+titalcruise5_amd64.deb
+Size: 110608
+SHA256: d4c7ec31d07d3e5909bbd1523dbdda0bb01bcf37257140b2a65ea32bdf3baa0b
+SHA1: 1228e588cf254ccb37089d8a2a5863f2b86655ea
+MD5sum: f2006ca1cf4ce02200c0cee39c9d3327
+Description: TitalcruiseOS base system miscellaneous files
+ This package contains the basic filesystem hierarchy of a TitalcruiseOS system, and
  several important miscellaneous files, such as /etc/debian_version,
  /etc/host.conf, /etc/issue, /etc/motd, /etc/profile, and others,
- and the text of several common licenses in use on Debian systems.
+ and the text of several common licenses in use on TitalcruiseOS systems.
 
 Package: calamares-settings-titalcruise
 Version: 1.1-4
