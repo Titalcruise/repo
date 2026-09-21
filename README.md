@@ -1,3 +1,11 @@
+# Web
+
+*TitalcruiseOS* cuenta actualmente con una página web adaptada para 1920x1080.
+
+Para encontrar más información, descargas, entre otros, visita https://titalcruise.wixsite.com/titalcruise-oficial/
+
+---
+
 # titalcruise-* (v1.0)
 
 Agregamos nuevos paquetes para *TitalcruiseOS*, los cuales son titalcruise-graphics, titalcruise-sounds y titalcruise-backgrounds.
