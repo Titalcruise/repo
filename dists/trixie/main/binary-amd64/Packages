@@ -1,9 +1,9 @@
 Package: base-files
-Version: 14.6+titalcruise5
+Version: 14.6-1+titalcruise5
 Architecture: amd64
 Essential: yes
 Maintainer: Titalcruise E.A <titalcruise@gmail.com>
-Installed-Size: 532
+Installed-Size: 501
 Pre-Depends: awk
 Breaks: debian-security-support, initscripts, sendfile
 Replaces: base, dpkg, miscutils
@@ -11,11 +11,11 @@ Provides: base, usr-is-merged
 Multi-Arch: foreign
 Priority: required
 Section: admin
-Filename: pool/main/b/base-files/base-files_14.6+titalcruise5_amd64.deb
-Size: 110608
-SHA256: d4c7ec31d07d3e5909bbd1523dbdda0bb01bcf37257140b2a65ea32bdf3baa0b
-SHA1: 1228e588cf254ccb37089d8a2a5863f2b86655ea
-MD5sum: f2006ca1cf4ce02200c0cee39c9d3327
+Filename: pool/main/b/base-files/base-files_14.6-1+titalcruise5_amd64.deb
+Size: 88184
+SHA256: 430457e5e3cfa869509819f846942fb3bfd5766588322431cd29253f71457013
+SHA1: 15d8eb3501db512b963d81eb8a34c28d788d0a34
+MD5sum: 5e0f3cea9531a17069962317f1bd88dd
 Description: TitalcruiseOS base system miscellaneous files
  This package contains the basic filesystem hierarchy of a TitalcruiseOS system, and
  several important miscellaneous files, such as /etc/debian_version,
