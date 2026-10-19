@@ -5,35 +5,35 @@ Origin: TitalcruiseOS
 Label: TitalcruiseOS 5.4.1
 Suite: stable
 Codename: trixie
-Date: Tue, 22 Sep 2026 02:29:34 UTC
+Date: Mon, 19 Oct 2026 22:56:36 UTC
 Architectures: amd64
 Components: main
 Description: Repositorio oficial de TitalcruiseOS 5
 MD5Sum:
- ef1fdbd1e938b001ddd0fac252108fa5 7404 main/binary-amd64/Packages
- 33f17ca5c1ccc6c8460c39bada90e70f 3078 main/binary-amd64/Packages.gz
+ 2d7298d28cde285a86f92fddab0b1bc5 7404 main/binary-amd64/Packages
+ 7731a2a6a0acf09028d5c252473c2b27 3089 main/binary-amd64/Packages.gz
  57e9db900ea53dfd98631367ffdd2b91 153 main/binary-amd64/Release
 SHA1:
- 1f6bb1c47a4635398001ae691effd7c4cae0ce70 7404 main/binary-amd64/Packages
- 48b3d1eb1b1341bca6300963418497660c37b3c9 3078 main/binary-amd64/Packages.gz
+ d36bf21bae06c2716712e7238bb5e1ed77323f19 7404 main/binary-amd64/Packages
+ 41bfefd81027f8ba8052850d87caeac9bd619c98 3089 main/binary-amd64/Packages.gz
  96435728a836dd70e0aa1d08d977172979d0b422 153 main/binary-amd64/Release
 SHA256:
- f92ddcc93ad3703b234fd43ce5dcd861384277a3064cf599688598690f8aa06f 7404 main/binary-amd64/Packages
- fd8cb8931e657b9eef131f4cacb1bcae6aaef96d4eb6a90a841a6ddb850282ff 3078 main/binary-amd64/Packages.gz
+ c0729dfcad252e6a2b83a79b599ae14f144a90adc6bd9fea29706e4e05bfd9fb 7404 main/binary-amd64/Packages
+ b67a12aeb7d30d30e04833b0875a589723cd8f715954b7df558c48461521ce57 3089 main/binary-amd64/Packages.gz
  477fe63310af53865998bdbcbca39a623012f5a7235d6db1db4b885f61f09a8a 153 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEE1BYT6CBVQA2W55X0/gHMQTIY09sFAmqx6A8ACgkQ/gHMQTIY
-09t2Qw/+LWCFGvY78pzGV4RwB1+jmNp/enFms+pmK+lvlzcEVrr4dMTHewHHp2TN
-Zi/EyENGr5JRxP2ERdiswqd07CQv65Oot5xYQtnFZz+rnBkUGOW2bO2BhAcRj29C
-xd3Zh9uLuI95EuTtDOZyavz2faL/FSore+s68K1zlhuQnaM8NwVC8noEAKZYdr89
-evVy6CRNhen7gdD+EutnH/A0+wuFXpznJjGL18niRdP4UlVckoCOj1ZyerWiwqft
-q2Hkvmg16LiABVTXPRyZUds8btrykru1o7v8WuDy/Zj2+tL+UW9rDLh8D3KT1rMi
-NmucsR+/4x9uD5YqzpzTZnN6ssB8sykm98Q0OzesvW0HPuYXi7NCkqMPCHA7ZP2t
-K4b9eDOeyvCILkGG9Sugz6LIL6eciJP/Z0T7UbpJJ25rD4eofPbUWXcIjU5/sxdG
-7WfVx2jD6YE8wNmLhPoZXGLaJQnUOeU2m6iwNjxlxyyNlCwfK0rgljH4+S1VCpwB
-e1h62JnHkcMLDk0pzCU69RwzYv7KHFG34faM8fgIxuxFt9VBKKPV76urnL9wJlY3
-bTUFPeHSOeg2vU4JJGTUXppWucikr88iN/tU5e/QCSHk5+4y/ka7IrjjddkmFpqZ
-DGfAv+dzuA2NE13gqz57709yiSCQCWcflUu0OPTo7q+pN11Ldt0=
-=prsS
+iQIzBAEBCgAdFiEE1BYT6CBVQA2W55X0/gHMQTIY09sFAmrWoCQACgkQ/gHMQTIY
+09vbUw//diTVlRMFKvnFHj9fyot+DK4bS+SJ0eHo+gS+RZZZU3Cdp2csGy3+by0y
+FsDQFm+64sQg8AJ/Hws/piZFrvVxBaAgNAWWIG9VXuk2XvK1MaVmFMt0yTt8y1WN
+FJXBQZ2N/eSny0x90xXr9m2CCTV/L4X8GnazaO5NQPad79CUOurzfrTaHyjlHwWH
+aCYLfEtqE9V0phPyeWgHUjuqU4E7Doy8WzJGTO67cIxBIEnB3ffR1RA+bzWLNZ+y
+DYKXxJxwvLDX3aqIa6G8u4X7sKNot6vXcCDK5FWmVdNEsPnlotS6uraFVyZkfmLu
+3pVmHXfskgwZc9kUCjY5QY8jJQdwTAHAohUCQ5a645C8nT4eHftqgPbhr6SCBqmw
+RfbyVFIrS9hkU69QFxZMuoOGnDvN/kQEAtgb1w7WYHhs+p57SMa6K5kcPpF2p8md
+pRKjfepunJlh4+xfsfWPqTqADbazwV1zrGqeooxXcWF1yUk2oGzfMEpG8aMdffqh
+JUEyJ5t7qi7/xb/ZSRysDpbWyDuzUgJNYZTmlO4K1dyymiMUu1oSf/7bagikPW7I
+7OA50AGB+UZZj/mkSy9Rz7QZOO7Tf2oUp80G7loXEfW4BBpKAibuCjY2Lza+Aekn
+FZFjawoKCBH3U/CZ/CrRzctSJWKunV4hO+pUh4yj7APnt57m1k8=
+=qBt2
 -----END PGP SIGNATURE-----
