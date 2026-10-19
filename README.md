@@ -1,3 +1,15 @@
+# Cambios en titalcruise-graphics 1.1-2
+
+- Se eliminaron los scripts de mantenimiento que causaban errores durante la configuración del paquete.
+
+- Se eliminó la gestión automática de la desviación del tema de GNOME.
+
+- Se conservó el tema personalizado de GNOME Shell y se incluyó una copia del tema original para su recuperación manual.
+
+- Se simplificó la estructura de mantenimiento del paquete para mejorar la estabilidad de la instalación y actualización.
+
+---
+
 # Web
 
 *TitalcruiseOS* cuenta actualmente con una página web adaptada para 1920x1080.
