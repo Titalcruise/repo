@@ -132,16 +132,16 @@ Description: TitalcruiseOS GNOME system-wide defaults
  GNOME Shell extensions and Dash to Panel configuration through dconf.
 
 Package: titalcruise-graphics
-Version: 1.1-3
+Version: 1.1-4
 Architecture: all
 Maintainer: Titalcruise E.A.
 Priority: optional
 Section: misc
-Filename: pool/main/t/titalcruise-graphics/titalcruise-graphics_1.1-3_all.deb
-Size: 46962624
-SHA256: fad096d70da4971b326db986205359929a639966eb2ef4d0ec908e03cad5a433
-SHA1: 0b3f063fab28c5d0ecb96d8d5661f3fddd7caa8e
-MD5sum: 8dff775fc30c1d4c17f60705c4719e63
+Filename: pool/main/t/titalcruise-graphics/titalcruise-graphics_1.1-4_all.deb
+Size: 46962536
+SHA256: 5f0de9a9ac9bed067c701a30ae5656e80001103200dcb521787227d74e06e8a8
+SHA1: c5312a57ddccddc3062e35dadfdfb6659499b65c
+MD5sum: c3f006626253305653f1865eea7bf746
 Description: Recursos gráficos de TitalcruiseOS
  Recursos gráficos oficiales utilizados por TitalcruiseOS.
  Incluye el tema de iconos Hatter, el tema GruvTahoe-main
