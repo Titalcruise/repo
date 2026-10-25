@@ -82,6 +82,51 @@ Description: Set of backgrounds packaged with the GNOME desktop
  This is a collection of desktop wallpapers created with GNOME users in
  mind.
 
+Package: gnome-control-center
+Version: 1:51.1-1+titalcruise1
+Architecture: amd64
+Maintainer: Debian GNOME Maintainers <pkg-gnome-maintainers@lists.alioth.debian.org>
+Installed-Size: 5907
+Depends: accountsservice (>= 23.11.69), colord, desktop-base, desktop-file-utils, gnome-control-center-data (<< 1:52~), gnome-control-center-data (>= 1:51.1-1+titalcruise1), gnome-desktop3-data, gnome-online-accounts (>= 3.51.0), gnome-settings-daemon (>= 48~rc), gsettings-desktop-schemas (>= 51~beta), heif-gdk-pixbuf, heif-thumbnailer, libjxl-gdk-pixbuf, mutter-common (>= 47), tecla, upower, webp-pixbuf-loader, libaccountsservice0 (>= 23.13.9), libadwaita-1-0 (>= 1.8~alpha), libc6 (>= 2.38), libcairo2 (>= 1.2.4), libcolord-gtk4-1t64 (>= 0.1.24), libcolord2 (>= 1.4.3), libcups2t64 (>= 1.7.0), libepoxy0 (>= 1.0), libfontconfig1 (>= 2.12.6), libgcr-4-4 (>= 3.8.0), libgdk-pixbuf-2.0-0 (>= 2.30.1), libglib2.0-0t64 (>= 2.83.0), libgnome-bg-4-2t64 (>= 51~alpha), libgnome-bluetooth-ui-3.0-13 (>= 42~beta), libgnome-desktop-4-2t64 (>= 51~alpha), libgnome-qr-gtk-4-0 (>= 51~alpha), libgnutls30t64 (>= 3.7.0), libgoa-1.0-0b (>= 3.51.0), libgoa-backend-1.0-2 (>= 3.51.0), libgraphene-1.0-0 (>= 1.5.4), libgsound0t64 (>= 1.0.1), libgtk-4-1 (>= 4.23.1), libgtop-2.0-11 (>= 2.22.3), libgudev-1.0-0 (>= 146), libibus-1.0-5 (>= 1.5.2), libjson-glib-1.0-0 (>= 1.5.2), libkrb5-3 (>= 1.8+dfsg), libmalcontent-0-0 (>= 0.13), libmm-glib0 (>= 1.16.6), libnm0 (>= 1.52.0), libnma-gtk4-0 (>= 1.8.34), libpango-1.0-0 (>= 1.37.2), libpolkit-gobject-1-0 (>= 0.99), libpulse-mainloop-glib0 (>= 0.99.1), libpulse0 (>= 0.99.1), libpwquality1 (>= 1.1.0), libsecret-1-0 (>= 0.7), libsmbclient0 (>= 2:4.0.3+dfsg1), libsoup-3.0-0 (>= 3.0.3), libudisks2-0 (>= 2.0.0), libupower-glib3 (>= 1.90.6), libwacom9 (>= 2.0.0), libwayland-client0 (>= 1.20.0), libx11-6, libxml2-16 (>= 2.14.1)
+Recommends: cracklib-runtime, cups-pk-helper, fwupd, gnome-bluetooth-sendto, gnome-remote-desktop (>= 47), gnome-user-docs, gnome-user-share, iso-codes, libcanberra-pulse, libnss-myhostname, libspa-0.2-bluetooth | pulseaudio-module-bluetooth, malcontent-gui, mobile-broadband-provider-info, nm-connection-editor | network-manager-gnome (<< 1.36.0-3~), polkitd, power-profiles-daemon, realmd, rygel | rygel-tracker, system-config-printer-common
+Suggests: gnome-software | gnome-packagekit, gstreamer1.0-plugins-good
+Breaks: gnome-shell (<< 49)
+Priority: optional
+Section: gnome
+Filename: pool/main/g/gnome-control-center/gnome-control-center_51.1-1+titalcruise1_amd64.deb
+Size: 1946324
+SHA256: 3f3de9bb599aafdecce4b79cd7f06acf9c5f9154867d13f3d4d041963aa15cb9
+SHA1: f428856b886ac1ce7e2eed0275c284f41317ae3a
+MD5sum: 8fffdff91154dfd4d41fdc9c14745d84
+Description: utilities to configure the GNOME desktop
+ This package contains configuration applets for the GNOME desktop,
+ allowing to set accessibility configuration, desktop fonts, keyboard
+ and mouse properties, sound setup, desktop theme and background, user
+ interface properties, screen resolution, and other GNOME parameters.
+ .
+ It also contains a front end to these applets, which can also be
+ accessed with the GNOME panel or the Nautilus file manager.
+Commands: gnome-control-center
+
+Package: gnome-control-center-data
+Source: gnome-control-center
+Version: 1:51.1-1+titalcruise1
+Architecture: all
+Maintainer: Debian GNOME Maintainers <pkg-gnome-maintainers@lists.alioth.debian.org>
+Installed-Size: 19678
+Depends: dconf-gsettings-backend | gsettings-backend
+Multi-Arch: foreign
+Priority: optional
+Section: gnome
+Filename: pool/main/g/gnome-control-center/gnome-control-center-data_51.1-1+titalcruise1_all.deb
+Size: 3902324
+SHA256: cfae6847b5d1caf3aa9f46bff78edf7cf119ef23b19b513a8e36ca549cd79fda
+SHA1: 00a7835d27b028ee1416fe706686c196dd4a9375
+MD5sum: 4cd4955d2f684966092ba59506012b70
+Description: configuration applets for GNOME - data files
+ This package contains data files (icons, pixmaps, locales files) needed by
+ the configuration applets in the gnome-control-center package.
+
 Package: titalcruise-backgrounds
 Version: 1.0-1
 Architecture: all
@@ -115,17 +160,17 @@ Description: Configuraciones predeterminadas para TitalcruiseOS
  incluyendo el tema oscuro, color de acento y extensiones activas.
 
 Package: titalcruise-gnome-defaults
-Version: 1.0.2
+Version: 1.0.3
 Architecture: all
 Maintainer: Titalcruise E.A.
 Depends: dconf-gsettings-backend
 Priority: optional
 Section: gnome
-Filename: pool/main/t/titalcruise-gnome-defaults/titalcruise-gnome-defaults_1.0.2_all.deb
-Size: 1756
-SHA256: 3543aa8bd5cd410ed60acae100ba787048b90dee10d70cc0aa8cac0388583613
-SHA1: 1510c31bd48d3e7eec12fcb62781ded6a8de5daa
-MD5sum: 9451d57b8825994f5426b7c8df2726bf
+Filename: pool/main/t/titalcruise-gnome-defaults/titalcruise-gnome-defaults_1.0.3_all.deb
+Size: 1728
+SHA256: 3aa24fbe4ce1b3c56accb1f26bda690200a604b3ace7bc3f53e6ecd78574befd
+SHA1: af4f7e9883c2cffadd431751ec3170ac1592d133
+MD5sum: a4d4a7702879b480b2e1360a2fb19024
 Description: TitalcruiseOS GNOME system-wide defaults
  System-wide GNOME desktop defaults for TitalcruiseOS.
  This package provides the default theme, icons, wallpaper,
