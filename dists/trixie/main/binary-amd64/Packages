@@ -23,28 +23,26 @@ Description: TitalcruiseOS base system miscellaneous files
  and the text of several common licenses in use on TitalcruiseOS systems.
 
 Package: calamares-settings-titalcruise
-Version: 1.1-4
+Version: 1.1-6
 Architecture: all
 Maintainer: Titalcruise E.A <titalcruise@gmail.com>
-Installed-Size: 173
+Installed-Size: 2320
 Depends: calamares, rsync, cryptsetup, cryptsetup-initramfs, libglib2.0-bin, keyutils, pkexec, qml-module-qtquick-window2, qml-module-qtquick2, dconf-gsettings-backend | gsettings-backend
+Conflicts: calamares-settings-debian
 Provides: calamares-settings
-Homepage: https://salsa.debian.org/live-team/calamares-settings-debian
+Homepage: https://titalcruise.wixsite.com/titalcruise-oficial
 Priority: optional
 Section: utils
-Filename: pool/main/c/calamares-settings-titalcruise/calamares-settings-titalcruise_1.1-4_all.deb
-Size: 49988
-SHA256: 066eee37c70f3220cab776ed1b3b23184d7ffd9eff5f9a87df26ff9d26bfbed4
-SHA1: fc0dc8b0aa27ef8e06bf6d240c93b80671481216
-MD5sum: 31086154406975ea5c2f4240718e8ebc
+Filename: pool/main/c/calamares-settings-titalcruise/calamares-settings-titalcruise_1.1-6_all.deb
+Size: 2220592
+SHA256: df8190a067e850111ceb2a54448ae04bbf89e6e957e7922db9f17ca5162f8f94
+SHA1: cee9c82da4cc1cc2ae9fc3e4bc9dd3478d193564
+MD5sum: f144aaec9bb9c94d021e02cae5c92707
 Description: TitalcruiseOS theme and settings for the Calamares Installer
  Calamares is a generic installer framework for Linux distributions.
- By Titalcruise E.A, it contains a set of boilerplate wording and images. This
- package provides the latest TitalcruiseOS artwork as well as scripts that
- supports EFI installations.
  .
- It also serves as an example for how derivatives can create their own
- calamares-settings packages.
+ This package provides the TitalcruiseOS branding, artwork and settings for
+ Calamares, plus scripts that support EFI installations and LUKS encryption.
 
 Package: chatgpt
 Version: 26.825.51511
@@ -206,4 +204,20 @@ MD5sum: b8471cea7f7de928366a92a64f69618e
 Description: Tema de sonidos de TitalcruiseOS
  Tema de sonidos oficial Modern Minimal UI utilizado por TitalcruiseOS.
  Incluye sonidos para Cinnamon y sonidos de escritorio en formato OGA/OGG.
+
+Package: titalcruise-welcome
+Version: 0.5.6
+Architecture: all
+Depends: python3, python3-gi, gir1.2-gtk-4.0, gir1.2-adw-1
+Maintainer: Titalcruise E.A. <titalcruise@gmail.com>
+Priority: optional
+Section: gnome
+Filename: pool/main/t/titalcruise-welcome/titalcruise-welcome_0.5.6_all.deb
+Size: 17516
+SHA256: 5fd2b95786d2db90037e6f5c735c91ee0acd0a17c4d732a4438b995fb9f01fc2
+SHA1: 8bb6510a0da9136d38aa2602f45df37f8a9a995b
+MD5sum: 4c49f2e2bdb3bc3a2d44754e7df6784c
+Description: Bienvenida y centro de control básico de TitalcruiseOS
+ Asistente inicial, información del equipo y accesos rápidos a las
+ herramientas disponibles en el escritorio GNOME.
 
