@@ -23,21 +23,21 @@ Description: TitalcruiseOS base system miscellaneous files
  and the text of several common licenses in use on TitalcruiseOS systems.
 
 Package: calamares-settings-titalcruise
-Version: 1.1-8.1
+Version: 1.1-9
 Architecture: all
 Maintainer: Titalcruise E.A <titalcruise@gmail.com>
-Installed-Size: 2321
+Installed-Size: 2348
 Depends: calamares, rsync, cryptsetup, cryptsetup-initramfs, libglib2.0-bin, keyutils, pkexec, qml-module-qtquick-window2, qml-module-qtquick2, dconf-gsettings-backend | gsettings-backend
 Conflicts: calamares-settings-debian
 Provides: calamares-settings
 Homepage: https://titalcruise.wixsite.com/titalcruise-oficial
 Priority: optional
 Section: utils
-Filename: pool/main/c/calamares-settings-titalcruise/calamares-settings-titalcruise_1.1-8.1_all.deb
-Size: 2221076
-SHA256: 4768f808df13678b374ce285f2cfdfa20845934806181a31dc2cde9dfdf728ce
-SHA1: 92e3b9ba4a3408adde96234f4c5e4f641114d4cf
-MD5sum: 1fc5ba6c76dfbd9d3c5451c64d41ca62
+Filename: pool/main/c/calamares-settings-titalcruise/calamares-settings-titalcruise_1.1-9_all.deb
+Size: 2226964
+SHA256: 3311faf74eacb34e853c9d33bc91eb9e91a0540ac41dcc2be9ec913622bad307
+SHA1: 53baa651f2ac9f22e4119d35e22075ddf59c7997
+MD5sum: 981c97cd05a0e7ebd4f38ee277b60696
 Description: TitalcruiseOS theme and settings for the Calamares Installer
  Calamares is a generic installer framework for Linux distributions.
  .
